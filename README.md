@@ -1,2 +1,27 @@
-# Xmen-Universe
-Repositório dedicado a fornecer informações detalhadas sobre os personagens do universo X-Men. Inclui imagens e resumos dos personagens, destacando suas habilidades, histórias e contribuições para o universo dos X-Men.
+## Bem-vindo(a) ao perfil do Eduardo Henrique 😁
+ 
+  <div>
+    <a href="https://github.com/eduardoohenrique">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoohenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoohenrique&layout=compact&langs_count=6&theme=tokyonight"/>
+ 
+ </div>
+     
+ <div style="display: inline_block"><br>
+   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ </div>
+ 
+  <br>
+ <br>
+ 
+   ### Pra conteúdo sobre programação me segue nas redes abaixo!
+ ### Pra conteúdo sobre programação me segue nas redes abaixo!
+ 
+ <div> 
+   <a href="www.linkedin.com/in/eduardo-henrique-jesus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+   ![Snake animation](https://github.com/cadudevemdobro/cadudevemdobro/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
