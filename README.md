@@ -16,12 +16,9 @@
   <br>
  <br>
  
-   ### Pra conteúdo sobre programação me segue nas redes abaixo!
- ### Pra conteúdo sobre programação me segue nas redes abaixo!
+ ### Pra conteúdo sobre programação me segue no linkedin abaixo!
  
  <div> 
    <a href="www.linkedin.com/in/eduardo-henrique-jesus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/cadudevemdobro/cadudevemdobro/blob/output/github-contribution-grid-snake.svg)
- 
  </div>
